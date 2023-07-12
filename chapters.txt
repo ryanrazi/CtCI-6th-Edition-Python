@@ -1,5 +1,5 @@
 
-Data Structures
+# Data Structures
 Chapter1: Arrays and Strings
 
 Chapter2: Linked Lists
@@ -9,8 +9,7 @@ Chapter3: Stacks and Queues
 Chapter4: Trees and Graphs
 
 
-
-Concepts and Algorithms
+# Concepts and Algorithms
 Chapter5: Bit Manipulation
 
 Chapter6: Math and Logic Puzzles
@@ -19,27 +18,24 @@ Chapter7: Object-Oriented Design
 
 Chapter8: Recursion and Dynamic Programming
 
-Chapter9: System Design and Scalability
-
 Chapter10: Sorting and Searching
 
-Chapter11: Testing
 
-
-
-Knowledge Based
-Chapter12: C and C++
-
-Chapter13: Java
-
-Chapter14: Databases
-
-Chapter15: Threads and Locks
-
-
-
-Additional Review Problems
+# Additional Review Problems
 Chapter16: Moderate
 
 Chapter17: Hard
+
+
+
+# (Not Included) Concepts & Algortithms // Knowledge Based 
+Chapter9: System Design and Scalability
+Chapter11: Testing
+
+Chapter12: C and C++
+Chapter13: Java
+Chapter14: Databases
+Chapter15: Threads and Locks
+
+
 
